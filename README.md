@@ -5,7 +5,7 @@
 
 RISKON is a **dynamic, transparent, and regulatory-compliant credit risk assessment framework** designed for the Indian financial ecosystem. It leverages advanced feature engineering, Weight of Evidence (WoE) transformations, Information Value (IV) selection, unsupervised cohort discovery, and dynamic Ordinary Differential Equation (ODE)-based modelling to deliver personalised and auditable credit intelligence.  
 
-The system was built using the [Home Credit Default Risk Dataset](https://www.kaggle.com/competitions/home-credit-default-risk/data) as a proxy for real-world lending portfolios.  
+The system was built using the Home Credit Default Risk Dataset as a proxy for real-world lending portfolios.  
 
 ---
 
